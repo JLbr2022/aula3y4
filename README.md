@@ -1,3 +1,6 @@
 ## Ejercicio auna 3 y 4
 
-Condicionales y loops
+Condicionales, loops
+if while y for
+
+crear un for de 1 al 20
